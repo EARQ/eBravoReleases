@@ -1,0 +1,14 @@
+
+--alterar alfresco-global.properties
+
+
+alfresco.host=earq.ebravo.com.br
+share.host=earq.ebravo.com.br
+
+
+
+
+
+--apply amps
+ebravocustommodels-share.amp
+ebravocustommodels-repo.amp
